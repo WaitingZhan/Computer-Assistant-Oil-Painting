@@ -1,4 +1,4 @@
-# Computer-Assistant-Oil-Painting
+# Computer-Assistant-Oil-Painting(Color Reproduction)
 Use OpenCV to study the color space of the original Oil Painting, list all the possible color style.
 
 ## The original Ballerina Oil Painting 
